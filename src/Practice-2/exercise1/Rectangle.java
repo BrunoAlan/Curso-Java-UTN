@@ -31,7 +31,6 @@ public class Rectangle extends GeometricalFigure {
 
     @Override
     public Double calculateArea() {
-        // TODO Auto-generated method stub
         return side1 * side2;
     }
 

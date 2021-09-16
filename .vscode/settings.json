@@ -1,7 +1,10 @@
 {
   "java.project.sourcePaths": [
+    "src/Practice-2/exercise3",
+    "src/Practice-2/exercise2",
     "src/Practice-2/exercise1",
-    "src/Practice-1"
+    "src/Practice-1",
+    "src/Practice-2/exercise2-3-4"
   ],
   "java.project.outputPath": "bin"
 }
