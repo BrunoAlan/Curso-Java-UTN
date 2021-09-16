@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": [
+    "src/Practice-2/exercise1",
+    "src/Practice-1"
+  ],
+  "java.project.outputPath": "bin"
+}
